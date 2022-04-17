@@ -7,3 +7,5 @@ We used Shiny in R to build an interactive dashboard webpage and used Python to 
 Run app.R file within the working directory where datasets are. 
 Install these packages before running app.R:
 shiny,shinythemes,tidyverse,ggplot2,plotrix,hrbrthemes,viridis
+
+Shiny App Webpage: https://ruohezhou.shinyapps.io/NTF-Competition/
