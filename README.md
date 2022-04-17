@@ -1,1 +1,2 @@
-# NFT-competitiohn
+# NFT-competition
+
